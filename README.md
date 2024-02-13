@@ -49,3 +49,8 @@ json
 
 ## Errors
 In case of errors, the API will respond with an appropriate HTTP status code and an error message in the response body.
+```
+{
+    "error": "Please provide name and language"
+}
+```
