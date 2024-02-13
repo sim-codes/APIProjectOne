@@ -6,7 +6,7 @@ This API is built using Django Rest Framework for retrieving data based on name 
 
 The endpoint for accessing this API is: 
 ```
-http://127.0.0.1:8000/api/
+https://simpy.pythonanywhere.com/api/
 ```
 
 
@@ -17,7 +17,7 @@ http://127.0.0.1:8000/api/
 
 Example usage:
 ```
-http://127.0.0.1:8000/api/?name=Test Name&language=python
+https://simpy.pythonanywhere.com/api/?name=Test Name&language=python
 ```
 
 
